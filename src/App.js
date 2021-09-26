@@ -49,6 +49,8 @@ function App() {
         }
     }
     
+    console.log("new changes")
+    
   return (
     <div className="App">
       <header className="App-header">
